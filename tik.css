@@ -1,0 +1,31 @@
+.main{
+    background-image: url("https://source.unsplash.com/user/erondu/1600x900");
+    opacity: ;
+}
+.container{
+    width: 60%; 
+    background-color: red;
+    opacity: 0.8;
+}
+.jumbotron {
+    padding: 2rem 4rem;
+}
+.display-4 {
+    font-size: 1.5rem;    
+    line-height: 1.2;
+}
+.btn-group-lg>.btn, .btn-lg {
+    padding: 0.25rem 1rem;
+    font-size: 1rem;
+}
+td{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    border: 5px solid black ;
+    font-size: 100px;
+    background-color: white;
+   
+    
+   
+}
