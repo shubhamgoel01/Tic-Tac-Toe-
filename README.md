@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-
-Using HTML, CSS3, Bootstrap4, JS
+Using HTML, CSS3, Bootstrap4, JS..
